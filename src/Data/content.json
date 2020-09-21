@@ -1,0 +1,36 @@
+{
+  "banners": [
+    {"id": 1,"title": "IT'S NICE TO MEET YOU","subtitle": "Welcome To Our Studio!","button": "Tell Me More","link": "/about"}
+  ],
+  "abouts": [
+    {"id": 1,"title": "Our Humble Beginnings","subtitle": "2009-2011","content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!","image": "img/about/1.jpg"},
+    {"id": 2,"title": "An Agency is Born","subtitle": "March 2011","content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!","image": "img/about/2.jpg"},
+    {"id": 3,"title": "Transition to Full Service","subtitle": "December 2012","content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!","image": "img/about/3.jpg"},
+    {"id": 4,"title": "Phase Two Expansion","subtitle": "July 2014","content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!","image": "img/about/4.jpg"},
+    {"id": 5,"title": "Be Part Of Our Story!"}
+  ],
+  "portfolios": [
+      {"id": 1, "title": "Threads", "skill": "Illustration","image": "img/portfolio/01-thumbnail.jpg"},
+      {"id": 2, "title": "Explore", "skill": "Graphic Design", "image": "img/portfolio/02-thumbnail.jpg"},
+      {"id": 3, "title": "Finish", "skill": "Identity", "image": "img/portfolio/03-thumbnail.jpg"},
+      {"id": 4, "title": "Lines", "skill": "Branding", "image": "img/portfolio/04-thumbnail.jpg"},
+      {"id": 5, "title": "Southwest", "skill": "Website Design", "image": "img/portfolio/05-thumbnail.jpg"},
+      {"id": 6, "title": "Window", "skill": "Photography", "image": "img/portfolio/06-thumbnail.jpg"}    
+  ],
+  "services": [
+    {"id": 1, "title": "E-Commerce", "des": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.","icon": "faShoppingCart"},
+    {"id": 2, "title": "Responsive Design", "des": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.", "icon": "faLaptop"},
+    {"id": 3, "title": "Web Security", "des": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.", "icon": "faLock"}
+  ],
+  "teams": [
+    {"id": 1, "name": "Kay Garland", "skill": "Lead Designer","icon":"faFacebookF","image": "img/team/1.jpg"},
+    {"id": 2, "name": "Larry Parker", "skill": "Lead Marketer", "image": "img/team/2.jpg"},
+    {"id": 3, "name": "Diana Pertersen", "skill": "Lead Developer", "image": "img/team/3.jpg"}
+  ],
+  "clients": [
+    { "id": 1, "logo": "img/logos/envato.jpg"},
+    { "id": 2, "logo": "img/logos/designmodo.jpg"},
+    { "id": 3, "logo": "img/logos/themeforest.jpg"},
+    { "id": 4, "logo": "img/logos/creative-market.jpg"}
+  ]
+} 
